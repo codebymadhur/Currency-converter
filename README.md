@@ -16,7 +16,7 @@ Easily convert between multiple currencies using real-time exchange rates.
 ## 📸 Screenshots  
 
 ### 🏠 Homepage  
-![Homepage](images/homepage.png)  
+![Homepage](https://github.com/codebymadhur/Currency-converter/blob/main/Screenshot%202025-08-26%20203351.png)  
 
 ### 🔄 Conversion Example  
 ![Conversion](images/conversion.png)  
