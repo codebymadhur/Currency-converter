@@ -19,7 +19,7 @@ Easily convert between multiple currencies using real-time exchange rates.
 ![Homepage](https://github.com/codebymadhur/Currency-converter/blob/main/Screenshot%202025-08-26%20203351.png)  
 
 ### 🔄 Conversion Example  
-![Conversion](images/conversion.png)  
+![Conversion](https://github.com/codebymadhur/Currency-converter/blob/main/Screenshot%202025-08-26%20203406.png)  
 
 *(Add your screenshots inside the `images/` folder and update the file names above.)*  
 
