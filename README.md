@@ -21,8 +21,6 @@ Easily convert between multiple currencies using real-time exchange rates.
 ### 🔄 Conversion Example  
 ![Conversion](https://github.com/codebymadhur/Currency-converter/blob/main/Screenshot%202025-08-26%20203406.png)  
 
-*(Add your screenshots inside the `images/` folder and update the file names above.)*  
-
 ---
 
 ## 🚀 Getting Started  
@@ -48,5 +46,5 @@ API Integration – exchange rates
 
 👨‍💻 Author
 
-💡 Developed by Madhur
+💡 Developed by Madhur Kamble
 🔗 GitHub Profile : codebymadhur || madhurkamble555@gmail.com
